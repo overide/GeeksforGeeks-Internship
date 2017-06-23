@@ -13,6 +13,7 @@ Hello, this repository contain links to my published articles and code contribut
 8) Metaprogramming with Metaclasses in Python -> http://www.geeksforgeeks.org/metaprogramming-metaclasses-python/
 9) Find mirror of a given node in Binary tree -> http://www.geeksforgeeks.org/find-mirror-given-node-binary-tree/
 10) Boyer Moore Algorithm | Good Suffix heuristic -> http://www.geeksforgeeks.org/boyer-moore-algorithm-good-suffix-heuristic/
+11) How Facebook Display Ads for something you searched (GBlog) -> http://www.geeksforgeeks.org/facebook-display-ads-something-searched/
 
 ## Code Contributions
 
