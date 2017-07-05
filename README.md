@@ -15,9 +15,11 @@ Hello, this repository contain links to my published articles and code contribut
 10) Boyer Moore Algorithm | Good Suffix heuristic -> http://www.geeksforgeeks.org/boyer-moore-algorithm-good-suffix-heuristic/
 11) How Facebook Display Ads for something you searched (GBlog) -> http://www.geeksforgeeks.org/facebook-display-ads-something-searched/
 12) Genetic Algorithms (GBlog) -> http://www.geeksforgeeks.org/genetic-algorithms/
+13) Skip List | Set 2 (Insertion) -> http://www.geeksforgeeks.org/skip-list-set-2-insertion/
 
 ## Code Contributions
 
 1) Trie Insert and search (Python3 code) -> http://www.geeksforgeeks.org/trie-insert-and-search/
 2) Trie Delete (Python3 code) -> http://www.geeksforgeeks.org/trie-delete/
 3) Boyer Moore Algorithm|Bad Character Heuristic (Python3 code) -> http://www.geeksforgeeks.org/pattern-searching-set-7-boyer-moore-algorithm-bad-character-heuristic/
+4) Searching for Patterns | Set 5 (Finite Automata) (Python3 code) -> http://www.geeksforgeeks.org/searching-for-patterns-set-5-finite-automata/
