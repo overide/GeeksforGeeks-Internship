@@ -16,6 +16,8 @@ Hello, this repository contain links to my published articles and code contribut
 11) How Facebook Display Ads for something you searched (GBlog) -> http://www.geeksforgeeks.org/facebook-display-ads-something-searched/
 12) Genetic Algorithms (GBlog) -> http://www.geeksforgeeks.org/genetic-algorithms/
 13) Skip List | Set 2 (Insertion) -> http://www.geeksforgeeks.org/skip-list-set-2-insertion/
+14) Skip List | Set 3 (Searching and Deletion) -> http://www.geeksforgeeks.org/skip-list-set-3-searching-deletion/
+15) Wrapping C/C++ for Python using SWIG – Set 1 -> http://www.geeksforgeeks.org/wrapping-cc-python-using-swig-set-1/
 
 ## Code Contributions
 
