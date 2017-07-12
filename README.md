@@ -1,6 +1,8 @@
 # GeeksforGeeks-Internship
 Hello, this repository contain links to my published articles and code contributions on www.geeksforgeeks.org during my internship @ GeeksforGeeks during 01/06/2017 - Present, enjoy :)
 
+I won Special Appreciation in "Technical Scripter(2017)", here is the link to verify it -> http://www.geeksforgeeks.org/certificates/#TechnicalScripterCertificates
+
 ## Articles
 
 1) Executing main() in C/C++ – behind the scene -> http://www.geeksforgeeks.org/executing-main-in-c-behind-the-scene/ 
