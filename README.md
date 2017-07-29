@@ -21,6 +21,7 @@ I won Special Appreciation in "Technical Scripter(2017)", here is the link to ve
 14) Skip List | Set 3 (Searching and Deletion) -> http://www.geeksforgeeks.org/skip-list-set-3-searching-deletion/
 15) Wrapping C/C++ for Python using SWIG – Set 1 -> http://www.geeksforgeeks.org/wrapping-cc-python-using-swig-set-1/
 16) Exact Cover Problem and Algorithm X | Set 1 -> http://www.geeksforgeeks.org/exact-cover-problem-algorithm-x-set-1/
+17) Exact Cover Problem and Algorithm X | Set 2 (Implementation with DLX) -> http://www.geeksforgeeks.org/exact-cover-problem-algorithm-x-set-2-implementation-dlx/
 
 ## Code Contributions
 
