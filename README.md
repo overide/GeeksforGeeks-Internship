@@ -1,5 +1,5 @@
 # GeeksforGeeks-Internship
-Hello, this repository contain links to my published articles and code contributions on www.geeksforgeeks.org during my internship @ GeeksforGeeks during 01/06/2017 - Present, enjoy :)
+Hello, this repository contain links to my published articles and code contributions on www.geeksforgeeks.org during my internship @ GeeksforGeeks during 01/06/2017 - 31/07/2017, enjoy :)
 
 I won Special Appreciation in "Technical Scripter(2017)", here is the link to verify it -> http://www.geeksforgeeks.org/certificates/#TechnicalScripterCertificates
 
