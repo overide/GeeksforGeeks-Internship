@@ -3,6 +3,10 @@ Hello, this repository contain links to my published articles and code contribut
 
 I won Special Appreciation in "Technical Scripter(2017)", here is the link to verify it -> http://www.geeksforgeeks.org/certificates/#TechnicalScripterCertificates
 
+My internship completion certificate - https://media.geeksforgeeks.org/wp-content/cdn-uploads/Atul-Kumar.jpg
+
+Link to verify certificate - https://www.geeksforgeeks.org/certificates/tcwic/
+
 ## Articles
 
 1) Executing main() in C/C++ – behind the scene -> http://www.geeksforgeeks.org/executing-main-in-c-behind-the-scene/ 
