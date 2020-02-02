@@ -7,6 +7,9 @@ My internship completion certificate - https://media.geeksforgeeks.org/wp-conten
 
 Link to verify certificate - https://www.geeksforgeeks.org/certificates/tcwic/
 
+My article on "Bidirectional Search" was also got featured on the GeeksforGeeks homepage - 
+![featured-article](https://scontent.fhyd2-1.fna.fbcdn.net/v/t1.0-9/18951489_1369399696480844_5608664592910920891_n.jpg?_nc_cat=110&_nc_ohc=6s_uxnQYhjYAX_hQJDa&_nc_ht=scontent.fhyd2-1.fna&oh=a9cedb80558ad97e8fef6bd6e15502cb&oe=5EC6B64F)
+
 ## Articles
 
 1) Executing main() in C/C++ – behind the scene -> http://www.geeksforgeeks.org/executing-main-in-c-behind-the-scene/ 
